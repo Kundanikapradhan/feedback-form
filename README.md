@@ -1,2 +1,2 @@
 # feedback form 
-feedback form usinf html and css
+feedback form using html and css
